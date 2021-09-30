@@ -2,12 +2,13 @@ body{
   font-family: sans-serif;
   margin:0px;
   text-align: center;
+  background-color: #B1E693;
   
 }
 #page-Heading{
   text-align: center;
   margin-top: 25px;
-  color: grey;
+  color:black;
 }
 .delete-botton{
   color: black;
