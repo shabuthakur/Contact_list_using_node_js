@@ -1,0 +1,17 @@
+body{
+  font-family: sans-serif;
+  margin:0px;
+  text-align: center;
+  
+}
+#page-Heading{
+  text-align: center;
+  margin-top: 25px;
+  color: grey;
+}
+.delete-botton{
+  color: black;
+}
+#table-body{
+  text-align: center;
+}
